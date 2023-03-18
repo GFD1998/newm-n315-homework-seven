@@ -1,0 +1,182 @@
+// @media only screen and (min-width: 700px){
+    nav{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        height: 10vh;
+        width: 60%;
+        background-color: rgba(0,0,0,0);
+        position: absolute;
+        z-index: 999;
+        border-bottom: 1px black solid;
+    }
+
+    #iconsGroup1{
+        display: flex;
+        flex-direction: row;
+        position:relative;
+        left:10%;
+    }
+
+    #joinBtn{
+        background-color: #A23D3B;
+        padding: 10px 20px;
+        color: #FFF;
+        font-weight: 750;
+        font-family: 'Segoe UI';
+        margin-right: 1rem;
+    }
+
+    #joinBtn:hover{
+        background-color: #A23D3B;
+        padding: 10px 20px;
+        color: #FFF;
+        font-weight: 750;
+        font-family: 'Segoe UI';
+    }
+
+    #loginSection{
+        display: flex;
+        position: absolute;
+        flex-direction: row;
+        justify-content: center;
+        background-color: initial;
+        right: 0;
+        color: #1A1C18;
+    }
+
+    #loginSection a{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 500;
+        color: #1A1C18;
+    }
+
+    #loginSection img{
+        padding:12px 12px 12px 0;
+    }
+
+    #loginBtn{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        background-color: initial;
+        margin: 0;
+    }
+
+    #loginBtn:hover{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        background-color: initial;
+        color: #A23D3B;
+        margin: 0;
+        text-decoration: none !important;
+    }
+
+    nav div a{
+        text-decoration: none;
+        font-size: 1vw;
+        color: #000;
+        padding: 1vh 1vh;
+        transition: padding 1s;
+    }
+
+    nav div a:hover{
+        color: #FFF;
+        // padding: 15px 30px;
+        background-color: #141413;
+        text-decoration: underline;
+    }
+
+// }
+
+
+@media only screen and (max-width: 960px){
+    nav{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        height: 20vw;
+        border-bottom: initial !important;
+    }
+
+    nav a{
+        display: none;
+    }
+
+    nav svg{
+        margin-left: 10vw;
+    }
+    
+    // #joinBtn{
+    //     background-color: #A23D3B;
+    //     padding: 10px 20px;
+    //     color: #FFF;
+    //     font-weight: 750;
+    //     font-family: 'Segoe UI';
+    //     margin-right: 1rem;
+    // }
+    
+    // #joinBtn:hover{
+    //     background-color: #A23D3B;
+    //     padding: 10px 20px;
+    //     color: #FFF;
+    //     font-weight: 750;
+    //     font-family: 'Segoe UI';
+    // }
+    
+    // #loginSection{
+    //     display: flex;
+    //     position: absolute;
+    //     flex-direction: row;
+    //     justify-content: center;
+    //     background-color: initial;
+    //     right: 0;
+    //     color: #1A1C18;
+    // }
+    
+    // #loginSection a{
+    //     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    //     font-weight: 500;
+    //     color: #1A1C18;
+    // }
+    
+    // #loginSection img{
+    //     padding:12px 12px 12px 0;
+    // }
+    
+    // #loginBtn{
+    //     display: flex;
+    //     flex-direction: row;
+    //     justify-content: center;
+    //     background-color: initial;
+    //     margin: 0;
+    // }
+    
+    // #loginBtn:hover{
+    //     display: flex;
+    //     flex-direction: row;
+    //     justify-content: center;
+    //     background-color: initial;
+    //     color: #A23D3B;
+    //     margin: 0;
+    //     text-decoration: none !important;
+    // }
+    
+    // nav a{
+    //     text-decoration: none;
+    //     font-size: 1vw;
+    //     color: #FFF;
+    //     padding: 1vh 1vh;
+    //     transition: padding 1s;
+    // }
+    
+    // nav a:hover{
+    //     color: #D2DFC9;
+    //     // padding: 15px 30px;
+    //     background-color: #141413;
+    //     text-decoration: underline;
+    // }
+}
