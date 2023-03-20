@@ -1,0 +1,768 @@
+{
+    "Developers":[
+        {
+            "title":"Capcom",
+            "image":"assets/images/developers/capcom.jpg",
+            "Games":[
+                {
+                    "title":"Monster Hunter Rise",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch/PS4/XBOX/PC",
+                    "image":"assets/images/games/mhrise.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Ghosts 'n Goblins Resurrection",
+                    "publisher":"Capcom",
+                    "genre":"Platforming",
+                    "platforms":"Switch/PS4/XBOX/PC",
+                    "image":"assets/images/games/ggr.jpg"
+                },
+                {
+                    "title":"Marvel vs. Capcom Infinite",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch/PS4/XBOX/PC",
+                    "image":"assets/images/games/mvci.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter World",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"PS4/XBOX/PC",
+                    "image":"assets/images/games/mhworld.jpg"
+                }
+            ]
+        },
+        {
+            "title":"From Software",
+            "image":"assets/images/developers/fromSoftware.jpg",
+            "Games":[
+                {
+                    "title":"Monster Hunter Rise",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch/PS4/XBOX/PC",
+                    "image":"assets/images/games/mhrise.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter World",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"PS4/XBOX/PC",
+                    "image":"assets/images/games/mhworld.jpg"
+                }
+            ]
+        },
+        {
+            "title":"Nintendo",
+            "image":"assets/images/developers/nintendo.jpg",
+            "Games":[
+                {
+                    "title":"Monster Hunter Rise",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch/PS4/XBOX/PC",
+                    "image":"assets/images/games/mhrise.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter World",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"PS4/XBOX/PC",
+                    "image":"assets/images/games/mhworld.jpg"
+                }
+            ]
+        },
+        {
+            "title":"Square Enix",
+            "image":"assets/images/developers/squareEnix.jpg",
+            "Games":[
+                {
+                    "title":"Monster Hunter Rise",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch/PS4/XBOX/PC",
+                    "image":"assets/images/games/mhrise.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter World",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"PS4/XBOX/PC",
+                    "image":"assets/images/games/mhworld.jpg"
+                }
+            ]
+        },
+        {
+            "title":"Naughty Dog",
+            "image":"assets/images/developers/naughtyDog.jpg",
+            "Games":[
+                {
+                    "title":"Monster Hunter Rise",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch/PS4/XBOX/PC",
+                    "image":"assets/images/games/mhrise.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter World",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"PS4/XBOX/PC",
+                    "image":"assets/images/games/mhworld.jpg"
+                }
+            ]
+        },
+        {
+            "title":"Electronic Arts",
+            "image":"assets/images/developers/ea.jpg",
+            "Games":[
+                {
+                    "title":"Monster Hunter Rise",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch/PS4/XBOX/PC",
+                    "image":"assets/images/games/mhrise.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter World",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"PS4/XBOX/PC",
+                    "image":"assets/images/games/mhworld.jpg"
+                }
+            ]
+        },
+        {
+            "title":"Rockstar Games",
+            "image":"assets/images/developers/rockstar.jpg",
+            "Games":[
+                {
+                    "title":"Monster Hunter Rise",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch/PS4/XBOX/PC",
+                    "image":"assets/images/games/mhrise.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter World",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"PS4/XBOX/PC",
+                    "image":"assets/images/games/mhworld.jpg"
+                }
+            ]
+        },
+        {
+            "title":"Blizzard Entertainment",
+            "image":"assets/images/developers/blizzard.jpg",
+            "Games":[
+                {
+                    "title":"Monster Hunter Rise",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch/PS4/XBOX/PC",
+                    "image":"assets/images/games/mhrise.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter World",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"PS4/XBOX/PC",
+                    "image":"assets/images/games/mhworld.jpg"
+                }
+            ]
+        },
+        {
+            "title":"Scott Cawthon",
+            "image":"assets/images/developers/scottCawthon.jpg",
+            "Games":[
+                {
+                    "title":"Monster Hunter Rise",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch/PS4/XBOX/PC",
+                    "image":"assets/images/games/mhrise.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter World",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"PS4/XBOX/PC",
+                    "image":"assets/images/games/mhworld.jpg"
+                }
+            ]
+        },
+        {
+            "title":"Bethesda Softworks",
+            "image":"assets/images/developers/bethesda.jpg",
+            "Games":[
+                {
+                    "title":"Monster Hunter Rise",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch/PS4/XBOX/PC",
+                    "image":"assets/images/games/mhrise.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter Generations Ultimate",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mhgu.jpg"
+                },
+                {
+                    "title":"Monster Hunter World",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"PS4/XBOX/PC",
+                    "image":"assets/images/games/mhworld.jpg"
+                }
+            ]
+        }
+
+    ]
+
+}
+
+

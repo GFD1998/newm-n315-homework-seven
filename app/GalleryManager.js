@@ -7,17 +7,18 @@ export default class GalleryManager{
     constructor(data, model){
         this.objectData = data;
         this.model = model;
-        if($(".arrow").length == 0){
-            this.displayFullGallery();
-        }else{
-            $("#leftArrow").on("click", e => {
-                this.cycleContent("left",1);
-            });
-    
-            $("#rightArrow").on("click", e => {
-                this.cycleContent("right",1);
-            });
-        }
+        // if($(".arrow").length == 0){
+        //     this.displayFullGallery();
+        // }else{
+        console.log("Before leftArrow.");
+        $("#leftArrow").on("click", e => {
+            this.cycleContent("left",1);
+        });
+
+        $("#rightArrow").on("click", e => {
+            this.cycleContent("right",1);
+        });
+        // }
     }
 
 
@@ -28,40 +29,40 @@ export default class GalleryManager{
                 if(this.dataCounter < 0){
                     this.dataCounter = 9;
                 }
-                this.updateGallery(200);
+                this.updateGallery();
                 break;
             case "right":
                 this.dataCounter += num;
                 if(this.dataCounter > 9){
                     this.dataCounter = 0;
                 }
-                this.updateGallery(200);
+                this.updateGallery();
                 break;
             default:
                 break;
         }
     }
 
-    updateGallery(i){
-        // $("#galleryTitle").html(this.objectData["GameObjects"][this.dataCounter]["product"]);
-        // $("#galleryImage").attr("src", `${this.objectData["GameObjects"][this.dataCounter]["image"]}`);
+    updateGallery(){
+        $("#galleryTitle").html(this.objectData["Developers"][this.dataCounter]["title"]);
+        $("#galleryImage").attr("src", `${this.objectData["Developers"][this.dataCounter]["image"]}`);
         // $("#galleryPublisher").html(this.objectData["GameObjects"][this.dataCounter]["distributor"]);
         // $("#galleryGenre").html(this.objectData["GameObjects"][this.dataCounter]["type"]);
         // $("#galleryPlatforms").html(this.objectData["GameObjects"][this.dataCounter]["price"]);
-        if(i == 200){
-            $("#galleryTitle").html(this.objectData["CampObjects"][this.dataCounter]["product"]);
-            $("#galleryImage").attr("src", `${this.objectData["CampObjects"][this.dataCounter]["image"]}`);
-            $("#galleryPublisher").html(this.objectData["CampObjects"][this.dataCounter]["distributor"]);
-            $("#galleryGenre").html(this.objectData["CampObjects"][this.dataCounter]["type"]);
-            $("#galleryPlatforms").html(this.objectData["CampObjects"][this.dataCounter]["price"]);
-        }else{
-            $("#mainContainer").html(this.model.galleryPage);
-            $("#galleryTitle").html(this.objectData["CampObjects"][i]["product"]);
-            $("#galleryImage").attr("src", `${this.objectData["CampObjects"][i]["image"]}`);
-            $("#galleryPublisher").html(this.objectData["CampObjects"][i]["distributor"]);
-            $("#galleryGenre").html(this.objectData["CampObjects"][i]["type"]);
-            $("#galleryPlatforms").html(this.objectData["CampObjects"][i]["price"]);
-        }
+        // if(i == 200){
+        //     $("#galleryTitle").html(this.objectData["GameObjects"][this.dataCounter]["product"]);
+        //     $("#galleryImage").attr("src", `${this.objectData["GameObjects"][this.dataCounter]["image"]}`);
+        //     $("#galleryPublisher").html(this.objectData["GameObjects"][this.dataCounter]["distributor"]);
+        //     $("#galleryGenre").html(this.objectData["GameObjects"][this.dataCounter]["type"]);
+        //     $("#galleryPlatforms").html(this.objectData["GameObjects"][this.dataCounter]["price"]);
+        // }else{
+        //     $("#mainContainer").html(this.model.galleryPage);
+        //     $("#galleryTitle").html(this.objectData["CampObjects"][i]["product"]);
+        //     $("#galleryImage").attr("src", `${this.objectData["CampObjects"][i]["image"]}`);
+        //     $("#galleryPublisher").html(this.objectData["CampObjects"][i]["distributor"]);
+        //     $("#galleryGenre").html(this.objectData["CampObjects"][i]["type"]);
+        //     $("#galleryPlatforms").html(this.objectData["CampObjects"][i]["price"]);
+        // }
     }
 
 

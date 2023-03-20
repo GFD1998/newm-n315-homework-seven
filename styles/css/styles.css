@@ -4,10 +4,11 @@
 
 #gallery{
   display: flex;
-  /* flex-direction: row; */
-  flex-direction: column;
+  flex-direction: row;
+  /* flex-direction: column; */
   justify-content: center;
-  align-items: stretch;
+  align-items: center;
+  margin: 1rem;
 }
 
 #galleryContent{
@@ -17,8 +18,9 @@
   border-radius: 10px;
   color: white;
   font-family: 'Courier New', Courier, monospace;
-  width: 65vw;
-  height: 20vh;
+  width: 35vw;
+  margin: 0 1rem;
+  /* height: 20vh; */
 }
 
 .galleryRows{
@@ -33,10 +35,10 @@
 }
 
 #galleryContent div img{
-  width: 90%;
+  /* width: 90%; */
 }
 
-#galleryContent{
+/* #galleryContent{
   display: flex;
   flex-direction: column;
   margin: 2rem 2rem;
@@ -51,10 +53,11 @@
 
 #galleryContentSingle div{
   margin:1rem 0;
-}
+} */
 
 .arrow{
   cursor: pointer;
+  user-select: none;
 }
 
 

@@ -7,17 +7,42 @@ export default class Model{
 
     userSettings;
 
-    homeContent = `
-    <div id="banner">
-        <img src="assets/images/homeBanner.jpg" />
-        <h2 style="text-align: center;">Form Examples</h2>
-    </div>
-    <div>
-        <p style="text-align: center;padding: 2rem;">
-            Welcome to Jurassic Park Laboratories! We specialize in genetic modification and enhancement, bringing creatures of the past back to life!
-        </p>
+
+    // homeContent = `
+    // <div id="gallery">
+    //     <div id="leftArrow" class="arrow">&#8592;</div>
+    //     <div id="galleryContent">
+    //         <div id="galleryTitle">Nintendo</div>
+    //         <img id="galleryImage" src="assets/images/developers/nintendo.jpg" />
+    //     </div>
+    //     <div id="rightArrow" class="arrow">&#8594;</div>
+    // </div>
+    // `;
+
+
+    detailContent = `
+    <div id="gallery">
+        <div id="galleryContent">
+            <div id="galleryTitle">Monster Hunter Rise</div>
+            <img id="galleryImage" src="assets/images/games/mhrise.jpg" />
+            <div id="galleryPublisher">Nintendo</div>
+            <div id="galleryGenre">Fighting</div>
+            <div id="galleryPlatforms">Switch/PS4/XBOX/PC</div>
+        </div>
     </div>
     `;
+
+    // homeContent = `
+    // <div id="banner">
+    //     <img src="assets/images/homeBanner.jpg" />
+    //     <h2 style="text-align: center;">Form Examples</h2>
+    // </div>
+    // <div>
+    //     <p style="text-align: center;padding: 2rem;">
+    //         Welcome to Jurassic Park Laboratories! We specialize in genetic modification and enhancement, bringing creatures of the past back to life!
+    //     </p>
+    // </div>
+    // `;
 
 
     //     homeContent = `

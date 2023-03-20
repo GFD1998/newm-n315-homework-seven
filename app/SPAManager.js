@@ -2,6 +2,7 @@ export default class SPAManager{
 
 
     _model;
+    gm;
     userSettings;
 
 
@@ -30,6 +31,44 @@ export default class SPAManager{
         // window.location.hash = "home";
     }
 
+    detailsPage(page){
+        switch(page){
+            case "capcom":
+                $("#mainContainer").html(this._model.detailsPage);
+                this.updatePage();
+                break;
+            case "bethesda":
+                break;
+            case "blizzard":
+                break;
+            case "ea":
+                break;
+            case "fromSoftware":
+                break;
+            case "naughtyDog":
+                break;
+            case "nintendo":
+                break;
+            case "rockstar":
+                break;
+            case "scottCawthon":
+                break;
+            case "squareEnix":
+                break;
+            default:
+                break;
+        }
+    }
+
+
+    updatePage(){
+        $("#galleryTitle").html(this.gm.objectData["Developers"][this.gm.dataCounter]["Games"][0]["title"]);
+        $("#galleryImage").attr("src", `${this.gm.objectData["Developers"][this.gm.dataCounter]["Games"][0]["image"]}`);
+        $("#galleryPublisher").html(this.gm.objectData["Developers"][this.dataCounter]["Games"][0]["publisher"]);
+        $("#galleryGenre").html(this.gm.objectData["Developers"][this.dataCounter]["Games"][0]["genre"]);
+        $("#galleryPlatforms").html(this.gm.objectData["Developers"][this.dataCounter]["Games"][0]["platforms"]);
+    }
+
 
 
     updateView(){
@@ -40,13 +79,15 @@ export default class SPAManager{
     }
 
 
-    constructor(_model){
+    constructor(_model, gallery){
         this._model = _model;
+        this.gm = gallery;
         $(document).ready(e => {
             this.updateView();
             if($("#mainContainer").innerHTML == null){
                 $("#mainContainer").html(this.defaultContent());
             }
+            // window.location = $(location).attr("href").split("#")[0];
         });
 
         $(window).on("hashchange", e => {
@@ -66,6 +107,10 @@ export default class SPAManager{
                     break;
                 case "#SIGNUP":
                     this.loginSignupContent();
+                    break;
+                case "#DETAILS":
+                    console.log($("#galleryImage").attr("src").split("/")[3].split(".")[0]);
+                    this.detailsPage($("#galleryImage").attr("src").split("/")[3].split(".")[0]);
                     break;
                 default:
                     break;
@@ -103,3 +148,78 @@ export default class SPAManager{
         });
     }
 }
+
+
+
+/*
+        {
+            "title":"Monster Hunter Rise",
+            "publisher":"Capcom",
+            "genre":"Fighting",
+            "platforms":"Switch/PS4/XBOX/PC",
+            "image":"assets/images/mhrise.jpg"
+        },
+        {
+            "title":"Super Smash Bros. Ultimate",
+            "publisher":"Nintendo",
+            "genre":"Fighting",
+            "platforms":"Switch",
+            "image":"assets/images/ssbu.jpg"
+        },
+        {
+            "title":"Monster Hunter Generations Ultimate",
+            "publisher":"Capcom",
+            "genre":"Fighting",
+            "platforms":"Switch",
+            "image":"assets/images/mhgu.jpg"
+        },
+        {
+            "title":"Super Mario Odyssey",
+            "publisher":"Nintendo",
+            "genre":"Platformer",
+            "platforms":"Switch",
+            "image":"assets/images/smo.jpg"
+        },
+        {
+            "title":"Legend of Zelda: Breath of the Wild",
+            "publisher":"Nintendo",
+            "genre":"Adventure/Puzzle",
+            "platforms":"Switch",
+            "image":"assets/images/lozbotw.jpg"
+        },
+        {
+            "title":"Metroid Prime Remastered",
+            "publisher":"Nintendo",
+            "genre":"Adventure",
+            "platforms":"Switch",
+            "image":"assets/images/mpr.jpg"
+        },
+        {
+            "title":"Super Mario Kart 8 Deluxe",
+            "publisher":"Nintendo",
+            "genre":"Racing",
+            "platforms":"Switch",
+            "image":"assets/images/smk8d.jpg"
+        },
+        {
+            "title":"Monster Hunter World",
+            "publisher":"Capcom",
+            "genre":"Fighting",
+            "platforms":"PS4/XBOX/PC",
+            "image":"assets/images/mhworld.jpg"
+        },
+        {
+            "title":"Bloodborne",
+            "publisher":"FromSoftware",
+            "genre":"RPG",
+            "platforms":"PS4",
+            "image":"assets/images/bb.jpg"
+        },
+        {
+            "title":"Pokemon Shield",
+            "publisher":"Nintendo",
+            "genre":"RPG",
+            "platforms":"Switch",
+            "image":"assets/images/ps.jpg"
+        }
+*/
