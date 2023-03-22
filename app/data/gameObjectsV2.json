@@ -33,46 +33,46 @@
                     "image":"assets/images/games/mvci.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Capcom Fighting Collection",
+                    "publisher":"Capcom",
+                    "genre":"Fighting",
+                    "platforms":"PS4",
+                    "image":"assets/images/games/cfc.jpg"
+                },
+                {
+                    "title":"Capcom Classics Collection",
+                    "publisher":"Capcom",
+                    "genre":"Retro",
+                    "platforms":"PS2",
+                    "image":"assets/images/games/ccc.jpg"
+                },
+                {
+                    "title":"Marvel vs. Capcom 3: Fate of Two Worlds",
                     "publisher":"Capcom",
                     "genre":"Fighting",
                     "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "image":"assets/images/games/mvc3fotw.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Mega Man X Legacy Collection 1+2",
                     "publisher":"Capcom",
-                    "genre":"Fighting",
+                    "genre":"Platforming",
                     "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "image":"assets/images/games/mmxlc12.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"The Great Ace Attorney Chronicles",
                     "publisher":"Capcom",
-                    "genre":"Fighting",
+                    "genre":"Roleplaying",
                     "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "image":"assets/images/games/tgaac.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
-                },
-                {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
-                },
-                {
-                    "title":"Monster Hunter World",
+                    "title":"Resident Evil Origins Collection",
                     "publisher":"Capcom",
                     "genre":"Fighting",
                     "platforms":"PS4/XBOX/PC",
-                    "image":"assets/images/games/mhworld.jpg"
+                    "image":"assets/images/games/reoc.jpg"
                 }
             ]
         },
@@ -81,74 +81,74 @@
             "image":"assets/images/developers/fromSoftware.jpg",
             "Games":[
                 {
-                    "title":"Monster Hunter Rise",
-                    "publisher":"Capcom",
+                    "title":"Sekiro Shadows Die Twice",
+                    "publisher":"From Software",
                     "genre":"Fighting",
-                    "platforms":"Switch/PS4/XBOX/PC",
-                    "image":"assets/images/games/mhrise.jpg"
+                    "platforms":"PS4",
+                    "image":"assets/images/games/ssdt.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
+                    "title":"Dark Souls Trilogy",
+                    "publisher":"From Software",
                     "genre":"Fighting",
                     "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "image":"assets/images/games/dst.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
+                    "title":"Bloodborne",
+                    "publisher":"From Software",
                     "genre":"Fighting",
                     "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "image":"assets/images/games/bb.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
+                    "title":"Dark Souls - Prepare to Die Edition",
+                    "publisher":"From Software",
                     "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "platforms":"PS3",
+                    "image":"assets/images/games/dsptde.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
+                    "title":"Dark Souls",
+                    "publisher":"From Software",
                     "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "platforms":"PS3",
+                    "image":"assets/images/games/ds.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
+                    "title":"Demon's Souls",
+                    "publisher":"From Software",
                     "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "platforms":"PS3",
+                    "image":"assets/images/games/dsgh.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
+                    "title":"Demon's Souls - Remake",
+                    "publisher":"From Software",
                     "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "platforms":"PS5",
+                    "image":"assets/images/games/dsr.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
+                    "title":"Dark Souls II: Scholar of the First Sin",
+                    "publisher":"From Software",
                     "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "platforms":"PS3",
+                    "image":"assets/images/games/dssotfs.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
+                    "title":"Dark Souls II",
+                    "publisher":"From Software",
                     "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "platforms":"PS3",
+                    "image":"assets/images/games/ds2.jpg"
                 },
                 {
-                    "title":"Monster Hunter World",
-                    "publisher":"Capcom",
+                    "title":"Dark Souls III",
+                    "publisher":"From Software",
                     "genre":"Fighting",
-                    "platforms":"PS4/XBOX/PC",
-                    "image":"assets/images/games/mhworld.jpg"
+                    "platforms":"PS4",
+                    "image":"assets/images/games/ds3.jpg"
                 }
             ]
         },
@@ -157,74 +157,74 @@
             "image":"assets/images/developers/nintendo.jpg",
             "Games":[
                 {
-                    "title":"Monster Hunter Rise",
+                    "title":"Legend of Zelda: Breath of the Wild",
                     "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch/PS4/XBOX/PC",
-                    "image":"assets/images/games/mhrise.jpg"
+                    "genre":"Roleplaying",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/lozbotw.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Pokemon Shield",
+                    "publisher":"Capcom",
+                    "genre":"Roleplaying",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/ps.jpg"
+                },
+                {
+                    "title":"Metroid Prime - Remastered",
+                    "publisher":"Capcom",
+                    "genre":"Roleplaying",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mpr.jpg"
+                },
+                {
+                    "title":"Super Smash Bros. Ultimate",
                     "publisher":"Capcom",
                     "genre":"Fighting",
                     "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "image":"assets/images/games/ssbu.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Super Mario Kart 8 Deluxe",
+                    "publisher":"Capcom",
+                    "genre":"Racing",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/smk8d.jpg"
+                },
+                {
+                    "title":"Sonic Frontiers",
+                    "publisher":"Capcom",
+                    "genre":"Roleplaying",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/sf.jpg"
+                },
+                {
+                    "title":"Pokémon Violet",
+                    "publisher":"Capcom",
+                    "genre":"Roleplaying",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/pv.jpg"
+                },
+                {
+                    "title":"Kirby and the Forgotten Land",
+                    "publisher":"Capcom",
+                    "genre":"Roleplaying",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/katfl.jpg"
+                },
+                {
+                    "title":"Mario Party Superstars",
+                    "publisher":"Capcom",
+                    "genre":"Party",
+                    "platforms":"Switch",
+                    "image":"assets/images/games/mps.jpg"
+                },
+                {
+                    "title":"Splatoon 3",
                     "publisher":"Capcom",
                     "genre":"Fighting",
                     "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
-                },
-                {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
-                },
-                {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
-                },
-                {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
-                },
-                {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
-                },
-                {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
-                },
-                {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
-                },
-                {
-                    "title":"Monster Hunter World",
-                    "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"PS4/XBOX/PC",
-                    "image":"assets/images/games/mhworld.jpg"
+                    "image":"assets/images/games/s3.jpg"
                 }
             ]
         },
@@ -233,74 +233,74 @@
             "image":"assets/images/developers/squareEnix.jpg",
             "Games":[
                 {
-                    "title":"Monster Hunter Rise",
+                    "title":"Valkyrie Elysium",
                     "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch/PS4/XBOX/PC",
-                    "image":"assets/images/games/mhrise.jpg"
+                    "genre":"Roleplaying",
+                    "platforms":"PS5",
+                    "image":"assets/images/games/ve.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Crisis Core: Final Fantasy VII Reunion",
                     "publisher":"Capcom",
                     "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "platforms":"PS5",
+                    "image":"assets/images/games/ccff7r.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Octopath Traveler II",
                     "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "genre":"Roleplaying",
+                    "platforms":"PS5",
+                    "image":"assets/images/games/ot2.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Deus Ex: Human Revolution",
                     "publisher":"Capcom",
                     "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "platforms":"PS5",
+                    "image":"assets/images/games/dehr.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Forspoken",
                     "publisher":"Capcom",
                     "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "platforms":"PS5",
+                    "image":"assets/images/games/fors.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Final Fantasy XII",
                     "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "genre":"Roleplaying",
+                    "platforms":"PS5",
+                    "image":"assets/images/games/ff12.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Final Fantasy XIII",
                     "publisher":"Capcom",
                     "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "platforms":"PS5",
+                    "image":"assets/images/games/ff13.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Final Fantasy X|X-2 HD Remaster",
                     "publisher":"Capcom",
                     "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "platforms":"PS5",
+                    "image":"assets/images/games/ff1010-2.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Final Fantasy IX",
                     "publisher":"Capcom",
                     "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "platforms":"PS5",
+                    "image":"assets/images/games/ff9.jpg"
                 },
                 {
-                    "title":"Monster Hunter World",
+                    "title":"Final Fantasy Anthology",
                     "publisher":"Capcom",
                     "genre":"Fighting",
-                    "platforms":"PS4/XBOX/PC",
-                    "image":"assets/images/games/mhworld.jpg"
+                    "platforms":"PS4",
+                    "image":"assets/images/games/ffa.jpg"
                 }
             ]
         },
@@ -309,74 +309,74 @@
             "image":"assets/images/developers/naughtyDog.jpg",
             "Games":[
                 {
-                    "title":"Monster Hunter Rise",
+                    "title":"The Last of Us: Part 1",
                     "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch/PS4/XBOX/PC",
-                    "image":"assets/images/games/mhrise.jpg"
+                    "genre":"Roleplaying",
+                    "platforms":"PS5",
+                    "image":"assets/images/games/tloup1.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Crash Bandicoot",
                     "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "genre":"Platforming",
+                    "platforms":"PS1",
+                    "image":"assets/images/games/cb.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Crash Bandicoot 2: Cortex Strikes Back",
                     "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "genre":"Platforming",
+                    "platforms":"PS1",
+                    "image":"assets/images/games/cb2.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Crash Bandicoot: Warped",
                     "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "genre":"Platforming",
+                    "platforms":"PS1",
+                    "image":"assets/images/games/cb3.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Crash Team Racing",
                     "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "genre":"Racing",
+                    "platforms":"PS1",
+                    "image":"assets/images/games/ctr.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Uncharted: Drake's Fortune",
                     "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "genre":"Roleplaying",
+                    "platforms":"PS3",
+                    "image":"assets/images/games/udf.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Uncharted 2: Among Thieves",
                     "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "genre":"Roleplaying",
+                    "platforms":"PS3",
+                    "image":"assets/images/games/u2at.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"The Last of Us",
                     "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "genre":"Roleplaying",
+                    "platforms":"PS3",
+                    "image":"assets/images/games/tlou.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"The Last of Us: Left Behind",
                     "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "genre":"Roleplaying",
+                    "platforms":"PS3",
+                    "image":"assets/images/games/tloulb.jpg"
                 },
                 {
-                    "title":"Monster Hunter World",
+                    "title":"Uncharted 4: A Thief's End",
                     "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"PS4/XBOX/PC",
-                    "image":"assets/images/games/mhworld.jpg"
+                    "genre":"Roleplaying",
+                    "platforms":"PS4",
+                    "image":"assets/images/games/u4ate.jpg"
                 }
             ]
         },
@@ -385,74 +385,74 @@
             "image":"assets/images/developers/ea.jpg",
             "Games":[
                 {
-                    "title":"Monster Hunter Rise",
+                    "title":"Battlefield 2042",
                     "publisher":"Capcom",
-                    "genre":"Fighting",
+                    "genre":"FPS",
                     "platforms":"Switch/PS4/XBOX/PC",
-                    "image":"assets/images/games/mhrise.jpg"
+                    "image":"assets/images/games/b2042.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Burnout Paradise",
+                    "publisher":"Capcom",
+                    "genre":"Racing",
+                    "platforms":"PC",
+                    "image":"assets/images/games/bp.jpg"
+                },
+                {
+                    "title":"Command & Conquer Remastered Collection",
                     "publisher":"Capcom",
                     "genre":"Fighting",
                     "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "image":"assets/images/games/ccrc.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Battlefield 2042",
+                    "publisher":"Capcom",
+                    "genre":"FPS",
+                    "platforms":"Switch/PS4/XBOX/PC",
+                    "image":"assets/images/games/b2042.jpg"
+                },
+                {
+                    "title":"Burnout Paradise",
+                    "publisher":"Capcom",
+                    "genre":"Racing",
+                    "platforms":"PC",
+                    "image":"assets/images/games/bp.jpg"
+                },
+                {
+                    "title":"Command & Conquer Remastered Collection",
                     "publisher":"Capcom",
                     "genre":"Fighting",
                     "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "image":"assets/images/games/ccrc.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Battlefield 2042",
+                    "publisher":"Capcom",
+                    "genre":"FPS",
+                    "platforms":"Switch/PS4/XBOX/PC",
+                    "image":"assets/images/games/b2042.jpg"
+                },
+                {
+                    "title":"Burnout Paradise",
+                    "publisher":"Capcom",
+                    "genre":"Racing",
+                    "platforms":"PC",
+                    "image":"assets/images/games/bp.jpg"
+                },
+                {
+                    "title":"Command & Conquer Remastered Collection",
                     "publisher":"Capcom",
                     "genre":"Fighting",
                     "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
+                    "image":"assets/images/games/ccrc.jpg"
                 },
                 {
-                    "title":"Monster Hunter Generations Ultimate",
+                    "title":"Command & Conquer Remastered Collection",
                     "publisher":"Capcom",
                     "genre":"Fighting",
                     "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
-                },
-                {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
-                },
-                {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
-                },
-                {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
-                },
-                {
-                    "title":"Monster Hunter Generations Ultimate",
-                    "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"Switch",
-                    "image":"assets/images/games/mhgu.jpg"
-                },
-                {
-                    "title":"Monster Hunter World",
-                    "publisher":"Capcom",
-                    "genre":"Fighting",
-                    "platforms":"PS4/XBOX/PC",
-                    "image":"assets/images/games/mhworld.jpg"
+                    "image":"assets/images/games/ccrc.jpg"
                 }
             ]
         },

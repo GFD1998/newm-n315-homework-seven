@@ -32,28 +32,47 @@ export default class SPAManager{
     }
 
     detailsPage(page){
+        console.log("Hello from dp");
         switch(page){
             case "capcom":
-                $("#mainContainer").html(this._model.detailsPage);
-                this.updatePage();
+                $("#mainContainer").html(this._model.detailContent);
+                this.updateDetailsPage(page);
                 break;
             case "bethesda":
+                $("#mainContainer").html(this._model.detailContent);
+                this.updateDetailsPage(page);
                 break;
             case "blizzard":
+                $("#mainContainer").html(this._model.detailContent);
+                this.updateDetailsPage(page);
                 break;
             case "ea":
+                $("#mainContainer").html(this._model.detailContent);
+                this.updateDetailsPage(page);
                 break;
             case "fromSoftware":
+                $("#mainContainer").html(this._model.detailContent);
+                this.updateDetailsPage(page);
                 break;
             case "naughtyDog":
+                $("#mainContainer").html(this._model.detailContent);
+                this.updateDetailsPage(page);
                 break;
             case "nintendo":
+                $("#mainContainer").html(this._model.detailContent);
+                this.updateDetailsPage(page);
                 break;
             case "rockstar":
+                $("#mainContainer").html(this._model.detailContent);
+                this.updateDetailsPage(page);
                 break;
             case "scottCawthon":
+                $("#mainContainer").html(this._model.detailContent);
+                this.updateDetailsPage(page);
                 break;
             case "squareEnix":
+                $("#mainContainer").html(this._model.detailContent);
+                this.updateDetailsPage(page);
                 break;
             default:
                 break;
@@ -61,12 +80,93 @@ export default class SPAManager{
     }
 
 
-    updatePage(){
-        $("#galleryTitle").html(this.gm.objectData["Developers"][this.gm.dataCounter]["Games"][0]["title"]);
-        $("#galleryImage").attr("src", `${this.gm.objectData["Developers"][this.gm.dataCounter]["Games"][0]["image"]}`);
-        $("#galleryPublisher").html(this.gm.objectData["Developers"][this.dataCounter]["Games"][0]["publisher"]);
-        $("#galleryGenre").html(this.gm.objectData["Developers"][this.dataCounter]["Games"][0]["genre"]);
-        $("#galleryPlatforms").html(this.gm.objectData["Developers"][this.dataCounter]["Games"][0]["platforms"]);
+    updateDetailsPage(page){
+        console.log("Hello from udp");
+        for(var i = 0;i < 10;i++){
+            console.log(i);
+            console.log(page);
+            console.log(this.gm.objectData["Developers"][i]["title"].toLowerCase());
+            switch(page){
+                case "capcom":
+                    page = "Capcom";
+                    break;
+                case "bethesda":
+                    page = "Bethesda Softworks";
+                    break;
+                case "blizzard":
+                    page = "Blizzard Entertainment";
+                    break;
+                case "rockstar":
+                    page = "Rockstar Games";
+                    break;
+                case "scottCawthon":
+                    page = "Scott Cawthon";
+                    break;
+                case "ea":
+                    page = "Electronic Arts";
+                    break;
+                case "naughtyDog":
+                    page = "Naughty Dog";
+                    break;
+                case "squareEnix":
+                    page = "Square Enix";
+                    break;
+                case "nintendo":
+                    page = "Nintendo";
+                    break;
+                case "fromSoftware":
+                    page = "From Software";
+                    break;
+            }
+            // if(this.gm.objectData["Developers"][i]["title"].toLowerCase() == page){
+            if(this.gm.objectData["Developers"][i]["title"] == page ||
+            this.gm.objectData["Developers"][i]["title"] == page ||
+            this.gm.objectData["Developers"][i]["title"] == page ||
+            this.gm.objectData["Developers"][i]["title"] == page ||
+            this.gm.objectData["Developers"][i]["title"] == page ||
+            this.gm.objectData["Developers"][i]["title"] == page ||
+            this.gm.objectData["Developers"][i]["title"] == page ||
+            this.gm.objectData["Developers"][i]["title"] == page ||
+            this.gm.objectData["Developers"][i]["title"] == page ||
+            this.gm.objectData["Developers"][i]["title"] == page){
+
+                var objectString = `    
+                <div id="gallery">
+                    <div id="galleryContent">
+                        <div id="galleryTitle">Monster Hunter Rise</div>
+                        <img id="galleryImage" src="assets/images/games/mhrise.jpg" />
+                        <div id="galleryPublisher">Nintendo</div>
+                        <div id="galleryGenre">Fighting</div>
+                        <div id="galleryPlatforms">Switch/PS4/XBOX/PC</div>
+                    </div>
+                </div>
+                `;
+
+                var finalString = ``;
+                for(var m = 0;m < 10;m++){
+
+                    finalString += `
+                    <div id="gallery">
+                        <div id="galleryContent">
+                            <div id="galleryTitle">${this.gm.objectData["Developers"][i]["Games"][m]["title"]}</div>
+                            <img id="galleryImage" src="${this.gm.objectData["Developers"][i]["Games"][m]["image"]}" />
+                            <div id="galleryPublisher">${this.gm.objectData["Developers"][i]["title"]}</div>
+                            <div id="galleryGenre">${this.gm.objectData["Developers"][i]["Games"][m]["genre"]}</div>
+                            <div id="galleryPlatforms">${this.gm.objectData["Developers"][i]["Games"][m]["platforms"]}</div>
+                        </div>
+                    </div>
+                    `;
+                    // $("#galleryTitle").html(this.gm.objectData["Developers"][i]["Games"][1]["title"]);
+                    // $("#galleryImage").attr("src", `${this.gm.objectData["Developers"][i]["Games"][1]["image"]}`);
+                    // $("#galleryPublisher").html(this.gm.objectData["Developers"][i]["Games"][1]["publisher"]);
+                    // $("#galleryGenre").html(this.gm.objectData["Developers"][i]["Games"][1]["genre"]);
+                    // $("#galleryPlatforms").html(this.gm.objectData["Developers"][i]["Games"][1]["platforms"]);
+                }
+                $("#gallery").css("flex-direction", "column");
+                $("#gallery").html(finalString);
+                break;
+            }
+        }
     }
 
 
